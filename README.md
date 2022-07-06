@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VENKATA SAI NITIN M  (@nitin0412)
+- 👋 Hi, I’m VENKATA SAI NITIN M
 - 👀 I’m interested in ...Programming,Front end Development,Data Structures and Algorithms,Machine Learning
 - 📫 How to reach me ...Email:mavudurunitin123@gmail.com
 
